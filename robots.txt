@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://damianodifrancesco.github.ioo/sitemap.xml
+Sitemap: https://damianodifrancesco.github.io/sitemap.xml
