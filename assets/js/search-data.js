@@ -466,14 +466,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/damiano-di-francesco-191ba91a9/", "_blank");
+          window.open("https://www.linkedin.com/in/damiano-di-francesco-191ba91a9", "_blank");
         },
       },{
         id: 'social-x',
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/https://x.com/Damiano_Difra", "_blank");
+          window.open("https://twitter.com/Damiano_Difra", "_blank");
         },
       },{
       id: 'light-theme',
