@@ -10,10 +10,9 @@ nav_order: 3
 ### **Working Papers**
 ---
 
-***Are Hysteresis Effects Nonlinear?*** (with O. Carnevale)  
-(Draft available soon)
+***[Are Hysteresis Effects Nonlinear?](https://drive.google.com/file/d/1zeQlDlJwrVdMIb_ct3RC_bMpu9YHui9D/view?usp=sharing)*** (with O. Carnevale)  
 <details>
-  <summary>Abstract</summary>
+  <summary>Abstract [🔗 Link to the paper](https://drive.google.com/file/d/1zeQlDlJwrVdMIb_ct3RC_bMpu9YHui9D/view?usp=sharing)</summary>
   <p>
     This paper studies whether aggregate demand shocks leave lasting effects and whether such effects are asymmetric. Using U.S. data from 1983Q1–2019Q4, we identify demand shocks with potential long-run consequences in a Bayesian SVAR and trace their asymmetric impact through nonlinear local projections. We find that negative shocks dominate in the short run, but positive shocks generate more persistent medium-run gains in output. This asymmetry is largely driven by the labor market: expansions durably reduce unemployment and raise participation, whereas contractions leave weaker scars. Disaggregated analysis shows that disadvantaged groups of workers are more sensitive to both positive and negative shocks. By contrast, the capital accumulation and innovation channel mainly transmits negative hysteresis. Overall, our results demonstrate that hysteresis is not only negative: “high-pressure” economies can also deliver lasting benefits.
   </p>
