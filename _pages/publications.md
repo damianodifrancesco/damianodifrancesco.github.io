@@ -41,9 +41,9 @@ nav_order: 3
 </details>
 <br>
 
-<p><em>* Indicates presentation by coauthor</em></p>
-
 ---
+
+### **Work In Progress**
 
 ***Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth*** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
 <details>
@@ -61,5 +61,4 @@ nav_order: 3
 </details>
 <br>
 
-### **Work In Progress**
-
+<p><em>* Indicates presentation by coauthor</em></p>
