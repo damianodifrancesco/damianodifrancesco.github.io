@@ -45,18 +45,31 @@ nav_order: 3
 
 ### **Work In Progress**
 
-***Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth*** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
+***The Macro-Regional Effects of Green Structural Funds*** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
 <details>
   <summary>Abstract</summary>
-  <p><em>Abstract forthcoming.</em></p>
+  <p>
+We quantify the macroeconomic effects of EU green spending under Cohesion Policy. We focus on the share of European Structural and Investment (ESI) Funds targeting the low-carbon economy. We construct a new harmonized green disbursement series by integrating project-level allocations across funds and programming cycles, classifying projects with priority-theme and intervention-code information. We link these series to regional and national outcomes in a NUTS2 dataset spanning 2007–2023. Exploiting regional variation, we estimate dynamic effects using an instrumental variable local projection design. Preliminary results point to stimulative effects of Green ESI spending: it lifts regional GDP, private investment, and green innovation, proxied by green patents. At the country level, it increases private investment in climate-change mitigation. Our study provides the first EU-wide evidence on the economic impact of cohesion-funded green investment.
+</p>
+</details>
+<br>
+
+***Reduced GDP or Stolen Time? Measuring Climate Damages as Years of Lost Growth*** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
+<details>
+<summary>Abstract</summary>
+  <p>
+We propose Years of Lost Growth (YOLG), an intuitive metric that tells how many years of growth would be needed for a country to return to the GDP level that would have prevailed in the absence of climate change. Using a global panel of countries from 1960–2019, we estimate the nonlinear response of GDP per capita growth to temperature shocks. We then project GDP with and without climate change to 2100 under multiple warming and socioeconomic pathways, and compute country-specific YOLG. Expressing impacts as years lost, rather than GDP percentages, reveals sharper cross-country heterogeneity: warmer, low-growth economies incur larger losses, while benefits in cooler, high-growth economies are attenuated. We show that YOLG is transparent, easy to communicate, and a practical complement to conventional metrics of the macroeconomic effects of climate change.
+  </p>
   <p><u>Presented at:</u> EAEPE Annual Conference (2025, Athens); 13<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2025, Rome).</p>
 </details>
 <br>
 
 ***Short-Lived or Long-Lasting? Estimating the Persistent Effects of Climate Shocks*** (with F. Lamperti, and G. Scalisi)
 <details>
-  <summary>Abstract</summary>
-  <p><em>Abstract forthcoming.</em></p>
+<summary>Abstract</summary>
+  <p>
+Do temperature shocks affect economic activity? And for how long? We show that answers depend on (i) how shocks are defined and (ii) the econometric method used. We construct several shock measures from the literature and document their serial correlation. We then run Monte Carlo simulations calibrated to macro-climate settings—with panel structure and nonlinearities to capture climate-dependent effects—to generate impulse responses with varying long-run behaviour. Varying shock persistence, we compare Local Projections (LP), Vector Autoregressions (VAR), and Autoregressive Distributed Lags (ARDL). When shocks are serially correlated, LPs inherit that persistence and generate greater long-run effects, while ARDLs correct for shock serial correlation. Both LP and ARDL are less biased than VAR at long horizons. Finally, re-estimating influential studies, we show that the choice of shock definition and estimator can materially affect conclusions about long-run GDP effects.
+  </p>
   <p><u>Presented at:</u> EAEPE Annual Conference (2025, Athens)*. </p>
 </details>
 <br>
