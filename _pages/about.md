@@ -33,7 +33,7 @@ From June to December 2025, I will be in Frankfurt doing a <strong>PhD internshi
 
 My research interests lie in the field of <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles and Stabilization Policies, Climate Macroeconomics, and Macroeconometrics
 
-Here is a link to my CV.
+Here is a link to my [CV](https://damianodifrancesco.github.io/assets/pdf/CV_Di_Francesco_Damiano.pdf){:target="_blank"}.
 
 <!--
 <div style="text-align: center;">
