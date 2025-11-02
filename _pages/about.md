@@ -29,9 +29,9 @@ Hi, welcome to my webpage!
 
 I am a <strong>fourth-year PhD student</strong> at <em>Sant'Anna School of Advanced Studies</em>, under the supervision of Professor <a href='https://sites.google.com/view/alessiomoneta'>Alessio Moneta </a>. 
 
-From June to December 2025, I will be in Frankfurt doing a <strong>PhD internship</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>. During April-September 2024 I visited the School of Economics and Finance of <em>Queen Mary University of London</em>.
+From June to December 2025, I will be in Frankfurt doing a <strong>PhD internship</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>. During April-September 2024, I visited the School of Economics and Finance of <em>Queen Mary University of London</em>.
 
-My research interests lie in the field of <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles and Stabilization Policies, Climate Macroeconomics, and Macroeconometrics
+My research interests are in <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles and Stabilization Policies, Climate Macroeconomics, and Macroeconometrics.
 
 Here is a link to my [CV](https://damianodifrancesco.github.io/assets/pdf/CV_Di_Francesco_Damiano.pdf){:target="_blank"}.
 
