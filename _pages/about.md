@@ -27,13 +27,15 @@ latest_posts:
 
 Hi, welcome to my webpage!
 
-I am a <strong>fourth-year PhD student</strong> at <em>Sant'Anna School of Advanced Studies</em>. 
-From June to December 2025, I will be in Frankfurt doing a <strong>PhD internship</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>.
+I am a <strong>fourth-year PhD student</strong> at <em>Sant'Anna School of Advanced Studies</em>, under the supervision of Professor <a href='https://sites.google.com/view/alessiomoneta'>Alessio Moneta </a>. 
 
-During April-September 2024 I visited the School of Economics and Finance of <em>Queen Mary University of London</em>.
+From June to December 2025, I will be in Frankfurt doing a <strong>PhD internship</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>. During April-September 2024 I visited the School of Economics and Finance of <em>Queen Mary University of London</em>.
 
-My main research interests lie in the field of <strong>Applied Macroeconomics</strong>, primarily in three research areas:
+My research interests lie in the field of <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles and Stabilization Policies, Climate Macroeconomics, and Macroeconometrics
 
+Here is a link to my CV.
+
+<!--
 <div style="text-align: center;">
   <ul style="display: inline-block; text-align: left; transform: translateX(-1em);">
     <li> The macroeconomic effects of aggregate demand dynamics in the medium- and <br> 
@@ -45,6 +47,7 @@ My main research interests lie in the field of <strong>Applied Macroeconomics</s
          series techniques, with a focus on both Agent-based and DSGE models .</li>
   </ul>
 </div>
+-->
 
 
 
