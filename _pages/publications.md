@@ -45,7 +45,7 @@ nav_order: 3
 
 ### **Work In Progress**
 
-***The Macro-Regional Effects of Green Structural Funds*** (with M. Coronese, F. Lamperti, E. Palagi, and L. Sabattini)
+***The Macro-Regional Effects of Green Structural Funds*** (with C. Nerlich)
 <details>
   <summary>Abstract</summary>
   <p>
