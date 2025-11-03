@@ -10,11 +10,16 @@ nav_order: 3
 ### **Working Papers**
 ---
 
-***[Are Hysteresis Effects Nonlinear?](https://drive.google.com/file/d/1CcGydIcIE6D40FMjRQzFfCH61t7yTHHY/view?usp=sharing)*** (with O. Carnevale)  
+***[Are Hysteresis Effects Nonlinear?](https://drive.google.com/file/d/1CcGydIcIE6D40FMjRQzFfCH61t7yTHHY/view?usp=sharing)*** (with O. Carnevale)  ***JMP***
 <details>
   <summary>Abstract</summary>
   <p>
     Do temporary aggregate demand shocks have lasting effects, and are they asymmetric between contractions and expansions? Using U.S. data from 1983:Q1-2019:Q4, we identify demand shocks with potential long-run consequences via a Bayesian SVAR and trace their propagation with nonlinear local projections. We find that negative shocks dominate in the short run, but positive shocks build up over time and by the medium run generate equally persistent effects on output. We investigate the mechanisms behind this result and argue that positive hysteresis is transmitted primarily through the labor market channel: expansions durably lower long-term unemployment and raise labor force participation. By contrast, the capital accumulation and R&D channels transmit predominantly negative hysteresis.
+
+  </p>
+  <p><u>Awards:</u> Fonorable mention at the the International Association for Applied Econometrics (IAAE), 2025 </p>
+</details>
+<br>
 
   </p>
   <p><u>Presented at:</u> European Central Bank (2025); Macroeconometrics in Salerno (2025); 13th SIdE Workshop for PhD students in Econometrics and Empirical Economics (WEEE, 2025); 13<sup>th</sup> Conference of the International Association for Applied Econometrics (IAAE 2025, Turin); Trans-Atlantic Doctoral Conference (TADC) at the London Business School (2025)*; 3<sup>rd</sup> UEA Time Series Workshop (2025); Junior Milan Time Series Workshop (2025); 17<sup>th</sup> UniTO-Collegio Carlo Alberto Ph.D. Workshop in Economics (2025)*.</p>
