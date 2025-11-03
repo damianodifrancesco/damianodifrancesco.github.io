@@ -15,10 +15,8 @@ nav_order: 3
   <summary>Abstract</summary>
   <p>
     Do temporary aggregate demand shocks have lasting effects, and are they asymmetric between contractions and expansions? Using U.S. data from 1983:Q1-2019:Q4, we identify demand shocks with potential long-run consequences via a Bayesian SVAR and trace their propagation with nonlinear local projections. We find that negative shocks dominate in the short run, but positive shocks build up over time and by the medium run generate equally persistent effects on output. We investigate the mechanisms behind this result and argue that positive hysteresis is transmitted primarily through the labor market channel: expansions durably lower long-term unemployment and raise labor force participation. By contrast, the capital accumulation and R&D channels transmit predominantly negative hysteresis.
-
-  </p>
+ </p>
   <p><u>Awards:</u> Fonorable mention at the the International Association for Applied Econometrics (IAAE), 2025 </p>
-</details>
 <br>
 
   </p>
