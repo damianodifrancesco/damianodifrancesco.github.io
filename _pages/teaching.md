@@ -32,4 +32,4 @@ nav_order: 6
 - **Microeconomics and Macroeconomics** (Undergraduate - Economics; 09/2019–12/2019)  
   *Teaching Assistant*
    - University of Pisa
-   - Prof. Piero Manfredi
+   - Prof. <a href="https://www.unipi.it/ateneo/organizzazione/persone/pietro-angelo-manfredo-francesc-manfredi-4354/" target="_blank">Piero Manfredi</a>
