@@ -26,7 +26,7 @@ nav_order: 3
 <details>
   <summary>Abstract</summary>
   <p><em>Abstract forthcoming.</em></p>
-  <p><u>Presented at:</u> Bank of England internal seminar (2025); University of Pisa (2025)*; Workshop on Macroeconomics and Innovation for the Green Transition (2025, Salerno); 18<sup>th</sup> International Conference on Computational and Financial Econometrics (CFE 2024, London); University of Florence (2024)*; 12<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2024, Pescara); 29<sup>th</sup> Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024, Leuven); Econometric Models of Climate Change (EMCC 2024, Cambridge); 4<sup>th</sup> Sailing the Macro Workshop (2024, Ortigia).</p>
+  <p><u>Presented at:</u> Bank of England internal seminar (2025); University of Pisa (2025)*; Workshop on Macroeconomics and Innovation for the Green Transition (2025, Salerno); 18<sup>th</sup> International Conference on Computational and Financial Econometrics (CFE 2024, London); University of Florence (2024)*; 12<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2024, Pescara); 29<sup>th</sup> Annual Conference of the European Association of Environmental and Resource Economists (EAERE 2024, Leuven); 8<sup>th</sup> Conference on Econometric Models of Climate Change (EMCC 2024, Cambridge); 4<sup>th</sup> Sailing the Macro Workshop (2024, Ortigia).</p>
 </details>
 <br>
 
