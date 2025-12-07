@@ -29,7 +29,7 @@ Hi, welcome to my webpage!
 
 I am a <strong>fourth-year PhD student</strong> at <em>Sant'Anna School of Advanced Studies</em>, under the supervision of Professor <a href='https://sites.google.com/view/alessiomoneta'>Alessio Moneta </a>. 
 
-From June to December 2025, I was a <strong>PhD intern</strong> in the Fiscal Policies Division at the <em>European Central Bank (ECB)</em>. From April to September 2024, I was a visiting PhD student at the School of Economics and Finance, <em>Queen Mary University of London</em>.
+From June to December 2025, I was a <strong>PhD intern</strong> in the Fiscal Policies Division (DG-Economics) at the <em>European Central Bank</em>. From April to September 2024, I was a visiting PhD student at the School of Economics and Finance, <em>Queen Mary University of London</em>.
 
 My research interests are in <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles and Stabilization Policies, Climate Macroeconomics, and Macroeconometrics.
 
