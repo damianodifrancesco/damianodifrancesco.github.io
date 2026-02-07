@@ -61,7 +61,7 @@ We quantify the macroeconomic effects of EU green spending under Cohesion Policy
   <p>
 We propose Years of Lost Growth (YOLG), an intuitive metric that tells how many years of growth would be needed for a country to return to the GDP level that would have prevailed in the absence of climate change. Using a global panel of countries from 1960–2019, we estimate the nonlinear response of GDP per capita growth to temperature shocks. We then project GDP with and without climate change to 2100 under multiple warming and socioeconomic pathways, and compute country-specific YOLG. Expressing impacts as years lost, rather than GDP percentages, reveals sharper cross-country heterogeneity: warmer, low-growth economies incur larger losses, while benefits in cooler, high-growth economies are attenuated. We show that YOLG is transparent, easy to communicate, and a practical complement to conventional metrics of the macroeconomic effects of climate change.
   </p>
-  <p><u>Presented at:</u> 14<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2026, Trento); EAEPE Annual Conference (2025, Athens); 13<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2025, Rome).</p>
+  <p><u>Presented at:</u> EAEPE Annual Conference (2025, Athens); 13<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2025, Rome).</p>
 </details>
 <br>
 
@@ -71,7 +71,7 @@ We propose Years of Lost Growth (YOLG), an intuitive metric that tells how many 
   <p>
 Do temperature shocks affect economic activity? And for how long? We show that answers depend on (i) how shocks are defined and (ii) the econometric method used. We construct several shock measures from the literature and document their serial correlation. We then run Monte Carlo simulations calibrated to macro-climate settings—with panel structure and nonlinearities to capture climate-dependent effects—to generate impulse responses with varying long-run behaviour. Varying shock persistence, we compare Local Projections (LP), Vector Autoregressions (VAR), and Autoregressive Distributed Lags (ARDL). When shocks are serially correlated, LPs inherit that persistence and generate greater long-run effects, while ARDLs correct for shock serial correlation. Both LP and ARDL are less biased than VAR at long horizons. Finally, re-estimating influential studies, we show that the choice of shock definition and estimator can materially affect conclusions about long-run GDP effects.
   </p>
-  <p><u>Presented at:</u> EAEPE Annual Conference (2025, Athens)*. </p>
+  <p><u>Presented at:</u> 14<sup>th</sup> Annual Conference of the Italian Association of Environmental and Resource Economists (IAERE 2026, Trento); EAEPE Annual Conference (2025, Athens)*. </p>
 </details>
 <br>
 
