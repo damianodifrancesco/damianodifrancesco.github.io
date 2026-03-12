@@ -51,7 +51,8 @@ nav_order: 3
   <summary>Abstract</summary>
   <p>
 We quantify the macroeconomic effects of EU green spending under Cohesion Policy. We focus on the share of European Structural and Investment (ESI) Funds targeting the low-carbon economy. We construct a new harmonized green disbursement series by integrating project-level allocations across funds and programming cycles, classifying projects with priority-theme and intervention-code information. We link these series to regional and national outcomes in a NUTS2 dataset spanning 2007–2023. Exploiting regional variation, we estimate dynamic effects using an instrumental variable local projection design. Preliminary results point to stimulative effects of Green ESI spending: it lifts regional GDP, private investment, and green innovation, proxied by green patents. At the country level, it increases private investment in climate-change mitigation. Our study provides the first EU-wide evidence on the economic impact of cohesion-funded green investment.
-</p>
+  </p>
+  <p><u>Presented at:</u> ECB Climate Change Centre Seminar (2026).</p>
 </details>
 <br>
 
