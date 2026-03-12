@@ -7,8 +7,15 @@ nav: true
 nav_order: 6
 ---
 
-- **Time Series in Macroeconomics and Finance** (Master and undergraduate - Economics; 11/2024–12/2024)  
+- **Advanced Macroeconomics** (Master - Economics; 02/2026-06/2026)  
   *Teaching Assistant*
+   - Institute of Economics, Sant’Anna School of Advanced Studies (Pisa) 
+   - Prof. <a href="https://www.santannapisa.it/en/francesco-lamperti" target="_blank">Francesco Lamperti</a>  
+
+<div style="margin-top:4px;"></div>
+
+- **Time Series in Macroeconomics and Finance** (Master and undergraduate - Economics; 01/2026-02/2026 & 11/2024–12/2024)  
+  *Co-Teacher*
    - Institute of Economics, Sant’Anna School of Advanced Studies (Pisa) 
    - Prof. <a href="https://www.santannapisa.it/en/francesco-lamperti" target="_blank">Francesco Lamperti</a>  
 
