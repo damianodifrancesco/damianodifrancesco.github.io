@@ -17,7 +17,7 @@ nav_order: 3
     Do temporary aggregate demand shocks have lasting effects, and are they asymmetric between contractions and expansions? Using U.S. data from 1983:Q1-2019:Q4, we identify demand shocks with potential long-run consequences via a Bayesian SVAR and trace their propagation with nonlinear local projections. We find that negative shocks dominate in the short run, but positive shocks build up over time and by the medium run generate equally persistent effects on output. We investigate the mechanisms behind this result and argue that positive hysteresis is transmitted primarily through the labor market channel: expansions durably lower long-term unemployment and raise labor force participation. By contrast, the capital accumulation and R&D channels transmit predominantly negative hysteresis.
  </p>
   <p><u>Awards:</u> Honorable mention at the the International Association for Applied Econometrics (IAAE), 2025. </p>
-  <p><u>Presented at:</u> University of Pavia (2026); European Central Bank (2025); Queen Mary University of London (2025)*; Macroeconometrics in Salerno (2025); Örebro Workshop on Macro and Financial Econometrics (2025)*; 13th SIdE Workshop for PhD students in Econometrics and Empirical Economics (WEEE, 2025); 13<sup>th</sup> Conference of the International Association for Applied Econometrics (IAAE 2025, Turin); Trans-Atlantic Doctoral Conference (TADC) at the London Business School (2025)*; 3<sup>rd</sup> UEA Time Series Workshop (2025); Junior Milan Time Series Workshop (2025); 17<sup>th</sup> UniTO-Collegio Carlo Alberto Ph.D. Workshop in Economics (2025)*.</p>
+  <p><u>Presented at:</u> University of Pavia (2026);  33rd Symposium of the Society for Nonlinear Dynamics & Econometrics (2026)*; European Central Bank (2025); Queen Mary University of London (2025)*; Macroeconometrics in Salerno (2025); Örebro Workshop on Macro and Financial Econometrics (2025)*; 13th SIdE Workshop for PhD students in Econometrics and Empirical Economics (WEEE, 2025); 13<sup>th</sup> Conference of the International Association for Applied Econometrics (IAAE 2025, Turin); Trans-Atlantic Doctoral Conference (TADC) at the London Business School (2025)*; 3<sup>rd</sup> UEA Time Series Workshop (2025); Junior Milan Time Series Workshop (2025); 17<sup>th</sup> UniTO-Collegio Carlo Alberto Ph.D. Workshop in Economics (2025)*.</p>
 </details>
 <br>
 
@@ -52,7 +52,7 @@ nav_order: 3
   <p>
 We quantify the macroeconomic effects of EU green spending under Cohesion Policy. We focus on the share of European Structural and Investment (ESI) Funds targeting the low-carbon economy. We construct a new harmonized green disbursement series by integrating project-level allocations across funds and programming cycles, classifying projects with priority-theme and intervention-code information. We link these series to regional and national outcomes in a NUTS2 dataset spanning 2007–2023. Exploiting regional variation, we estimate dynamic effects using an instrumental variable local projection design. Preliminary results point to stimulative effects of Green ESI spending: it lifts regional GDP, private investment, and green innovation, proxied by green patents. At the country level, it increases private investment in climate-change mitigation. Our study provides the first EU-wide evidence on the economic impact of cohesion-funded green investment.
   </p>
-  <p><u>Presented at:</u> ECB Climate Change Centre Seminar (2026).</p>
+  <p><u>Presented at:</u> ECB Climate Change Centre Seminar (2026); 3CMFI (2026)*.</p>
 </details>
 <br>
 
