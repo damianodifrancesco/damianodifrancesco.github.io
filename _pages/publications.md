@@ -10,7 +10,7 @@ nav_order: 3
 ### **Working Papers**
 ---
 
-***[Are Hysteresis Effects Nonlinear?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5520619)*** (with O. Carnevale)  ***JMP***
+***[Are Hysteresis Effects Nonlinear?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5520619)*** (with O. Carnevale)  <em>(Submitted)</em>
 <details>
   <summary>Abstract</summary>
   <p>
@@ -32,7 +32,7 @@ nav_order: 3
 </details>
 <br>
 
-***Estimation of DSGE models by Non-Gaussian Vector Autoregressions*** (with M. Martinoli, A. Moneta, and R. Seri)  
+***Estimation of DSGE models by Non-Gaussian Vector Autoregressions*** (with M. Martinoli, A. Moneta, and R. Seri) <em>(Submitted)</em>
 (Draft available upon request)
 <details>
   <summary>Abstract</summary>
