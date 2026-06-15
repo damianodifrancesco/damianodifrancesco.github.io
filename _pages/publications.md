@@ -32,7 +32,7 @@ nav_order: 3
 </details>
 <br>
 
-***Estimation of DSGE models by Non-Gaussian Vector Autoregressions*** (with M. Martinoli, A. Moneta, and R. Seri) <em>(Submitted)</em>
+***[Estimation of DSGE models by Non-Gaussian Vector Autoregressions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6946142)*** (with M. Martinoli, A. Moneta, and R. Seri) <em>(Under Review)</em>
 (Draft available upon request)
 <details>
   <summary>Abstract</summary>
