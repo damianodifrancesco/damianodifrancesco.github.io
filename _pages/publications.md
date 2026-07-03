@@ -76,7 +76,7 @@ Do temperature shocks affect economic activity? And for how long? We show that a
 </details>
 <br>
 
-***Can Cyclical Shocks Shift Macroeconomic Trends?*** (with G. Ascari , D. Bonam, O. Carnevale))
+***Can Cyclical Shocks Shift Macroeconomic Trends?*** (with G. Ascari , D. Bonam, O. Carnevale)
 <details>
 <summary>Abstract</summary>
   <p>
