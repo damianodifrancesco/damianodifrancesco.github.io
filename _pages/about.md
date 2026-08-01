@@ -27,11 +27,13 @@ latest_posts:
 
 Hi, welcome to my webpage!
 
-I am a <strong>PhD candidate</strong> at <em>Sant'Anna School of Advanced Studies</em>, under the supervision of Professor <a href='https://sites.google.com/view/alessiomoneta'>Alessio Moneta </a>. 
+I am a <strong>Postdoctoral Researcher</strong> at <em>Sant'Anna School of Advanced Studies</em>.
+
+I obtained my PhD in economics from the Sant'Anna School of Advanced Studies in July 2026, under the supervision of Professor <a href='https://sites.google.com/view/alessiomoneta'>Alessio Moneta </a>. 
 
 From June to December 2025, I was a <strong>PhD intern</strong> in the Fiscal Policies Division (DG-Economics) at the <em>European Central Bank</em>. From April to September 2024, I was a visiting PhD student at the School of Economics and Finance, <em>Queen Mary University of London</em>.
 
-My research interests are in <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles and Stabilization Policies, Climate Macroeconomics, and Macroeconometrics.
+My research interests are in <strong>Applied Macroeconomics</strong>, with a focus on Business Cycles, Climate Macroeconomics, and Macroeconometrics.
 
 Here is a link to my [CV](https://damianodifrancesco.github.io/assets/pdf/CV_Di_Francesco_Damiano.pdf){:target="_blank"}.
 
