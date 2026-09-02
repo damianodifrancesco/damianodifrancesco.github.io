@@ -46,13 +46,13 @@ nav_order: 3
 
 ### **Work In Progress**
 
-***The Macro-Regional Effects of Green Structural Funds*** (with C. Nerlich)
+***The Macro-Regional Effects of Green Public Investment*** (with C. Nerlich)
 <details>
   <summary>Abstract</summary>
   <p>
-We quantify the macroeconomic effects of EU green spending under Cohesion Policy. We focus on the share of European Structural and Investment (ESI) Funds targeting the low-carbon economy. We construct a new harmonized green disbursement series by integrating project-level allocations across funds and programming cycles, classifying projects with priority-theme and intervention-code information. We link these series to regional and national outcomes in a NUTS2 dataset spanning 2007–2023. Exploiting regional variation, we estimate dynamic effects using an instrumental variable local projection design. Preliminary results point to stimulative effects of Green ESI spending: it lifts regional GDP, private investment, and green innovation, proxied by green patents. At the country level, it increases private investment in climate-change mitigation. Our study provides the first EU-wide evidence on the economic impact of cohesion-funded green investment.
+This paper estimates the macroeconomic impact of green public investment financed through the European Structural and Investment Funds (ESIF) at the EU regional level. Given the lack of consistent data, we construct a new annual measure of green public investment across EU regions. To do so, we use project-level data on ESIF spending at NUTS2 level and identify green projects over the period 2007-2022. We then estimate the effects of our measures of green public investment on a range of macroeconomic indicators, including regional GDP and private investment. For identification, we apply panel local projections combined with an instrumental-variable strategy that predicts the time profile of a region’s spending based on the absorption profile of similar regions in other countries. We find that green public spending stimulates regional economic activity, with cumulative output multipliers between 1 and 2.5. Green spending also crowds-in business R\&D and raises the number of green patents, especially in the regions where the funds are concentrated. Regional government consumption shows little reaction.
   </p>
-  <p><u>Presented at:</u> ECB Climate Change Centre Seminar (2026); 3CMFI (2026)*.</p>
+  <p><u>Presented at:</u> ESCB RCCC Webinar (2026) ; 3rd International Conference on the Climate-Macro-Finance Interface (3CMFI, 2026)*; 30th International Conference on Macroeconomic Analysis and International Finance (ICMAIF, 2026)*; ESCB Public Finance workshop at the Central Bank of Lithuania (2026)*; ECB Climate Change Centre Seminar (2026).</p>
 </details>
 <br>
 
