@@ -21,8 +21,6 @@ nav_order: 3
 </details>
 <br>
 
-https://drive.google.com/file/d/1dZtzZTW7IsLYilZ1bpIOOokWq-tHtMZd/view?usp=drive_link
-
 ***[Evaporating Upside: Temperature Shocks and Macroeconomic Tail Risk](https://drive.google.com/file/d/1dZtzZTW7IsLYilZ1bpIOOokWq-tHtMZd/view?usp=drive_link)*** (with C. Brownlees, G. Fagiolo and F. Lamperti)  
 <details>
   <summary>Abstract</summary>
